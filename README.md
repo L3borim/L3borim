@@ -27,8 +27,8 @@
   <a href="https://www.codewars.com/users/L3borim" target="_blank"><img alt="Codewars Badge" src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars"></a>
   <a href="https://www.salesforce.com/trailblazer/lborim002" target="_blank"><img alt="Trailhead Badge" src="https://img.shields.io/badge/Trailblazer-darkblue?style=for-the-badge&logo=salesforce"></a>
   <a href="https://www.datacamp.com/portfolio/leoborim002" target="_blank"><img alt="Datacamp Badge" src="https://img.shields.io/badge/datacamp-%231AED51?style=for-the-badge&logo=datacamp&logoColor=black"></a>
-  <a href="https://orcid.org/0009-0001-5952-4103" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Orcid-white?style=for-the-badge&logo=orcid">
-</a>                                                                           
+  <a href="https://orcid.org/0009-0001-5952-4103" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Orcid-white?style=for-the-badge&logo=orcid"></a>
+  <a href="https://leetcode.com/u/L3borim/" target="_blank"><img alt="Leetcode Badge" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"></a> 
 </div>
 
 ## ✔️ Overwiew de Contribuições
