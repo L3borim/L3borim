@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/leonardoborim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/L3borim" target="_blank"><img alt="Codewars Badge" src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars"></a>
   <a href="https://www.salesforce.com/trailblazer/lborim002" target="_blank"><img alt="Trailhead Badge" src="https://img.shields.io/badge/Trailblazer-darkblue?style=for-the-badge&logo=salesforce"></a>
+  <a href="https://www.datacamp.com/portfolio/leoborim002" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/datacamp-%231AED51?style=for-the-badge&logo=datacamp&logoColor=black"></a>
 </div>
 
 ## ✔️ Overwiew de Contribuições
